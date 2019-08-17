@@ -15,6 +15,14 @@ Inicialize o Xampp e depois Apache e MySQL.
 	- Entre no diretório em que o sistema está pelo CMD (Prompt de Comando) e colocar comando <code>php artisan migrate</code>.
 	- Antes de executar o projeto necessitamos gerar uma nova key para isso executamos <code>php artisan key:generate</code>.
 
+- Arquivo .env deve estar com a seguinte configuração.
+	- DB_CONNECTION=mysql
+	- DB_HOST=127.0.0.1
+	- DB_PORT=3306
+	- DB_DATABASE=monaco
+	- DB_USERNAME=root
+	- DB_PASSWORD=
+
 - Ainda no diretório em que o sistema está pelo CMD (Prompt de Comando).  
     Coloque o comando <code>php artisan serve</code> e aperte enter.
     
