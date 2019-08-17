@@ -83,6 +83,7 @@ class FormularioController extends Controller
           'nome' => 'required|string|max:80',
           'email' => 'required|string|email|max:100',
           'descricao' => 'required|string|min:10|max:1000',
+          'foto' => 'required'
       ]);
 
       if ($validator->fails()) {
