@@ -1,6 +1,6 @@
 ## Sobre Projeto-Monaco
 
-É um projeto teste para a empresa Prodigious, no mesmo foi utilizado uma dashboard já pronta.
+É um projeto teste para a empresa Prodigious, no mesmo foi realizado um CRUD e no mesmo é utilizado uma dashboard já pronta.
 
 ## Como executar o projeto?
 

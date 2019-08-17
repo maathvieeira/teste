@@ -110,7 +110,7 @@ class FormularioController extends Controller
 			  $foto->storeAs('public/img/face', $id.'.jpg');
 			  return redirect()->route('listagem');
 			}
-
+      
       return redirect()->route('listagem');
     }
 }
