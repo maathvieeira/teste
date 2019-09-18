@@ -1,7 +1,3 @@
-## Sobre Projeto-Monaco
-
-É um projeto teste para a empresa Prodigious, no mesmo foi realizado um CRUD e nele é utilizado uma dashboard já pronta.
-
 ## Como executar o projeto?
 
 - Baixe e instale o [composer](https://getcomposer.org/).
